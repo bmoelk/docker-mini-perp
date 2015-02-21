@@ -1,5 +1,5 @@
 FROM mini/base
-MAINTAINER Brian Moelk <bmoelk@shrm.org>
+MAINTAINER Brian Moelk <bmoelk@gmail.com>
 
 # install perp
 RUN cd /root && \
